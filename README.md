@@ -7,5 +7,6 @@ data streams.
 ![comparison](https://github.com/yunkwankim/Sleep-CL/blob/main/Comp_CL_v4_1.jpg)
 
 We propose Sleep-CL, a Plug-and-Play offline consolidation framework that augments, rather than replaces, the wake-phase optimization of existing CL agents. Inspired by
-sleep-dependent memory consolidation, Sleep-CL inserts a structured post-learning stage composed of synaptic downregulation, non-rapid-eye-movement-inspired global consolidation, spindle-
-gated local replay, sharp-wave ripple style targeted replay, and adaptive model merging.
+sleep-dependent memory consolidation, Sleep-CL inserts a structured post-learning stage composed of synaptic downregulation, non-rapid-eye-movement-inspired global consolidation, spindle-gated local replay, sharp-wave ripple style targeted replay, and adaptive model merging.
+
+![Proposed](https://github.com/yunkwankim/Sleep-CL/blob/main/Proposed_framework_v2_1.jpg)
