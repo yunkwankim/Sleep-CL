@@ -14,4 +14,5 @@ sleep-dependent memory consolidation, Sleep-CL inserts a structured post-learnin
 # Requirements
 
 To install requirements:
-~s pip install -r requirements.txt
+
+```pip install -r requirements.txt```
