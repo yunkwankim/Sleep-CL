@@ -10,3 +10,8 @@ We propose Sleep-CL, a Plug-and-Play offline consolidation framework that augmen
 sleep-dependent memory consolidation, Sleep-CL inserts a structured post-learning stage composed of synaptic downregulation, non-rapid-eye-movement-inspired global consolidation, spindle-gated local replay, sharp-wave ripple style targeted replay, and adaptive model merging.
 
 ![Proposed](https://github.com/yunkwankim/Sleep-CL/blob/main/Proposed_framework_v2_1.jpg)
+
+# Requirements
+
+To install requirements:
+~s pip install -r requirements.txt
