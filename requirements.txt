@@ -1,0 +1,12 @@
+keras==2.13.1
+numpy==1.24.3
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+seaborn==0.13.2
+tensorflow==2.13.1
+torch==2.7.1
+torchvision==0.22.1
+tqdm==4.67.1
+utils==1.0.2
+wfdb==4.3.0
