@@ -9,6 +9,22 @@ data streams.
 We propose Sleep-CL, a Plug-and-Play offline consolidation framework that augments, rather than replaces, the wake-phase optimization of existing CL agents. Inspired by
 sleep-dependent memory consolidation, Sleep-CL inserts a structured post-learning stage composed of synaptic downregulation, non-rapid-eye-movement-inspired global consolidation, spindle-gated local replay, sharp-wave ripple style targeted replay, and adaptive model merging.
 
+# Important License Notice
+This repository is adapted from two original repositories:
+
+### Repository A
+- Original repository: [(https://github.com/danikiyasseh/CLOPS/)]
+- Original author(s): [Kiyasseh, Dani and Zhu, Tingting and Clifton, David]
+- Original license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+### Repository B
+- Original repository: [(https://github.com/zqiao11/TSCIL)]
+- Original author(s): [Zhongzheng Qiao, Quang Pham, Zhen Cao, Hoang H Le, P.N.Suganthan, Xudong Jiang, Ramasamy Savitha]
+- Original license: Apache License 2.0
+
+This version includes modifications for training configuration, and evaluation.
+This modified version is also provided for non-commercial research purposes only.
+
 ![Proposed](https://github.com/yunkwankim/Sleep-CL/blob/main/Proposed_framework_v2_1.jpg)
 
 # Requirements
